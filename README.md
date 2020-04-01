@@ -1,2 +1,4 @@
 # Hazardous-Asteroid-Classification
-Predicting whether a given asteroid is hazardous or not. 
+Kaggle Dataset: https://www.kaggle.com/shrutimehta/nasa-asteroids-classification#nasa.csv
+
+Classification of asteroid as hazardous or not. 
